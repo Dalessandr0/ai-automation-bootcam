@@ -1,0 +1,7 @@
+{
+  "id": "lead_${Date.now()}",
+  "name": "Ana Perez",
+  "email": "ana@ejemplo.com",
+  "source": "web-form",
+  "createdAt": "2026-01-29T11:38:27.195Z"
+}
